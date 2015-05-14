@@ -5,6 +5,6 @@ public class asdf {
 	int i = 2;
 	int j = 3;
 	int k = 5;
-	int l = 17;
+	int lj = 17;
 	int h = 234;
 }
