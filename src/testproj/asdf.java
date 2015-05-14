@@ -9,4 +9,5 @@ public class asdf {
 	int h = 234;
 	int twelve = 12;
 	int p = 5;
+	int six = 6;
 }
