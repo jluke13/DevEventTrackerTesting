@@ -7,8 +7,4 @@ public class asdf {
 	int k = 5;
 	int l = 17;
 	int h = 234;
-	int twelve = 12;
-	int p = 5;
-	int six = 6;
-	int sadfasdf = 188;
 }
